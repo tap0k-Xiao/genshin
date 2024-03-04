@@ -1,0 +1,41 @@
+body {
+    background-color: azure;
+}
+header {
+    text-align: center;
+}
+header img {
+    height: 120px;
+    width: 300px;
+}
+h1 {
+    font-family: cursive;
+    color: cadetblue;
+    text-align: center;
+    font-size: 35px;
+}
+p {
+    color: cadetblue;
+    font-size: large;
+}
+.arhont {
+    height: 400px;
+    width: 400px;
+}
+.ded {
+    height: 490px;
+    width: 400px;
+}
+footer {
+    background-color: aquamarine;
+    border-radius: 10px;
+    border: 1px solid aquamarine;
+}
+footer p {
+    font-family: cursive;
+}
+a {
+    text-align: center;
+    color: cadetblue;
+    font-size: large;
+}
